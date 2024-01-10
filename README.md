@@ -20,7 +20,7 @@ This Flask web application allows users to rate, review, and manage their favori
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-rating-app.git
+   git clone https://github.com/isotronic/top-10-movies-website.git
    ```
 
 2. Navigate to the project directory:
