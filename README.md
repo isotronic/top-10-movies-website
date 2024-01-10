@@ -25,7 +25,7 @@ This Flask web application allows users to rate, review, and manage their favori
 
 2. Navigate to the project directory:
    ```bash
-   cd movie-rating-app
+   cd top-10-movies-website
    ```
 
 3. Install dependencies:
