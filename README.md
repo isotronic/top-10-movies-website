@@ -1,6 +1,6 @@
 # Movie Rating and Review App
 
-This Flask web application allows users to rate, review, and manage their favorite movies. Users can also add new movies, which are automatically fetched from The Movie Database (TMDb) using their API.
+This Flask web application allows users to rate, review, and manage their favourite movies. Users can also add new movies, which are automatically fetched from The Movie Database (TMDb) using their API.
 
 ## Prerequisites
 
@@ -19,17 +19,17 @@ This Flask web application allows users to rate, review, and manage their favori
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/isotronic/top-10-movies-website.git
    ```
 
 2. Navigate to the project directory:
-   ```bash
+   ```
    cd top-10-movies-website
    ```
 
 3. Install dependencies:
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
@@ -44,8 +44,8 @@ This Flask web application allows users to rate, review, and manage their favori
 ## Usage
 
 1. Run the Flask app:
-   ```bash
-   python app.py
+   ```
+   python main.py
    ```
 
 2. Open your web browser and go to `http://localhost:5000` to access the application.
@@ -58,7 +58,7 @@ This Flask web application allows users to rate, review, and manage their favori
 
 - ChromeDriver is used for browser automation during movie data retrieval.
 
-- The application runs in debug mode by default. Update the script (`app.py`) to change this behavior for production use.
+- The application runs in debug mode by default. Update the script (`main.py`) to change this behaviour for production use.
 
 ## Acknowledgments
 
