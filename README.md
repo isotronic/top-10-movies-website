@@ -54,12 +54,8 @@ This Flask web application allows users to rate, review, and manage their favour
 
 - The application uses SQLite as the database, and a new database file (`top-10-movies.db`) will be created in the project directory.
 
-- ChromeDriver is used for browser automation during movie data retrieval.
-
 - The application runs in debug mode by default. Update the script (`main.py`) to change this behaviour for production use.
 
 ## Acknowledgments
 
 - This project utilizes Flask for web development, Flask SQLAlchemy for database management, Flask WTF for forms, and Flask Bootstrap5 for styling.
-
-- Selenium and BeautifulSoup are used for web scraping during the movie data retrieval process.
