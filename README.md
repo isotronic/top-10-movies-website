@@ -9,9 +9,7 @@ This Flask web application allows users to rate, review, and manage their favour
 - Flask Bootstrap5
 - Flask SQLAlchemy
 - Flask WTF
-- Selenium
-- BeautifulSoup
-- ChromeDriver
+- WTForms
 - TMDb API Key (Get one [here](https://www.themoviedb.org/documentation/api))
 
 ## Getting Started
